@@ -1,0 +1,20 @@
+{
+    "pairs": [
+      {
+        "ref_audio": "samples/ref/ref_1.wav",
+        "gen_audio": "samples/gen/gen_1.wav"
+      },
+      {
+        "ref_audio": "samples/ref/ref_2.wav",
+        "gen_audio": "samples/gen/gen_2.wav"
+      },
+      {
+        "ref_audio": "samples/ref/ref_1.wav",
+        "gen_audio": "samples/gen/gen_2.wav"
+      },
+      {
+        "ref_audio": "samples/ref/ref_2.wav",
+        "gen_audio": "samples/gen/gen_1.wav"
+      }
+    ]
+}
